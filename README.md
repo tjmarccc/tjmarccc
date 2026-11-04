@@ -8,7 +8,7 @@
 🌍 Open to remote roles, freelance projects and collaborations.
 🛠️ Tech Stack:
 
-- **Mobile:** React Native (Expo & CLI), React Navigation, Redux Toolkit, Flutter (learning)
+- **Mobile:** React Native (Expo & CLI), React Navigation, Redux Toolkit, Flutter
 - **Backend:** Node.js, Express, Python, Flask, REST APIs, JWT authentication
 - **Databases:** MongoDB, SQLAlchemy, SQLite, Supabase
 - **Frontend:** TypeScript, JavaScript, HTML5, CSS3
